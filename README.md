@@ -18,3 +18,10 @@ These are my preliminary notes. I'm going to read a variety of materials on the 
 - [ ] Duolingo (once it supports Arabic for English speakers)
 - [ ] Create SMART goals
 - [ ] Deconstruct the grammar
+- [ ] Learn some of the most common words first, then pick up grammar
+- [ ] Drop English as much as possible from your study
+- [ ] Learn the first 1000 words to gain 70%-80% of the words you'll ever encounter in the language
+- [ ] Break the 1000 words up into manageable chunks of 50
+- [ ] Get some basic Arabic learning books and absorb them
+- [ ] Do not cram, but space out your study and practice
+- [ ] Use good memory techniques to memorize words and alphabet symbols. Think of some mnemonic or way to associate a word or symbol with something you already know
